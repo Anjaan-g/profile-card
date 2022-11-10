@@ -1,7 +1,7 @@
 # Profile Card
 
 Profile Card is a simple design for your profile.
-
+![profile card example](example.png "Example UI").
 ## Installation
 
 No need to install only HTML, CSS and basic SASS.
